@@ -1,2 +1,2 @@
-# EtaonisRandomWords
-Random word generator using the ETAONIS letter distribution
+# EtaoinsRandomWords
+Random word generator using the ETAOINS letter distribution
